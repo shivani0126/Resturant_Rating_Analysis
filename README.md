@@ -10,7 +10,7 @@
 * [Dashboard](#dashboard)
 
 ## Case Study
-Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
+Restaurant ratings by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
 ## Dataset Description
 Our data set consists of the following observations which include:
 
@@ -62,7 +62,7 @@ Our data set consists of the following observations which include:
 - **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-ratings drawio](https://app.powerbi.com/groups/me/modeling/6453dcbe-4218-45af-8582-7d7588704526/modelView?experience=power-bi)
+![Restaurant-ratings: ER- Diagram](https://github.com/user-attachments/assets/167477b0-812b-4739-8edc-c2daa233e6a7))
 
 ## Data Cleaning
 ### Steps to import data as a folder
@@ -193,6 +193,16 @@ Food_Rating_Category = SWITCH(
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
 ## Dashboard
-![Restaurant Ratings Analysis](https://github.com/shivani0126/Resturant_Rating_Analysis)
+![Restaurant Ratings Analysis_page-01](https://github.com/user-attachments/assets/be23c187-858c-4cdd-b09e-2d2e66efc9f8)
+![Restaurant Ratings Analysis_page-02](https://github.com/user-attachments/assets/689b56cb-699d-4dc7-a93c-3d96719607ec)
+![Restaurant Ratings Analysis_page-03](https://github.com/user-attachments/assets/fc672c7a-9c56-4b9c-abe8-dfd835126d8d)
+![Restaurant Ratings Analysis_page-04](https://github.com/user-attachments/assets/e5e503b6-e7a9-4141-bf3e-dcdc03902b72)
+![Restaurant Ratings Analysis_page-05](https://github.com/user-attachments/assets/20d11b8b-bf3b-46d9-9ce9-747cdedaa1df)
+
+
+
+
+
+
 
 
