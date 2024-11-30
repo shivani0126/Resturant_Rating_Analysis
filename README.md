@@ -62,7 +62,7 @@ Our data set consists of the following observations which include:
 - **Cuisine** -	Types of food the restaurant serves		
 
 ## ER Diagram
-![Restaurant-ratings drawio](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/90bef193-a0bb-4211-96ca-a7587b16f2d1)
+![Restaurant-ratings drawio](https://app.powerbi.com/groups/me/modeling/6453dcbe-4218-45af-8582-7d7588704526/modelView?experience=power-bi)
 
 ## Data Cleaning
 ### Steps to import data as a folder
